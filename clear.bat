@@ -1,0 +1,2 @@
+:: mimic 'clear' functionality
+@cls
